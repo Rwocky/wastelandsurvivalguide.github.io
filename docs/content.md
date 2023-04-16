@@ -90,6 +90,7 @@ Main Files:
 A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, a pre-War bank that is said to contain untold riches. Players will also get to explore multiple locations around the island with interesting backstories and meet plenty of different personalities that are sure to leave an impression that lasts.
 
 Main File - Washington's Malevolence TTW
+Update File - Washington's Malevolence TTW - Update 4.0.7
 
 ## Player Homes
 
